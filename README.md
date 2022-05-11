@@ -2,7 +2,7 @@
 
 # 💫 Javascript Calculator Practice!
 
-## javascript challenge 참여
+## Zerobase javascript challenge 참여
 
 #### 📌 https://codesandbox.io/s/github/newri0807/zeroBase_week4-calculator
 
