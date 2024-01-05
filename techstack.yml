@@ -1,7 +1,8 @@
 repo_name: newri0807/zerobase_week4-calculator
 report_id: 840f9324517839f471465a7ed93b779f
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T04:06:57+00:00'
+timestamp: '2024-01-05T09:01:34+00:00'
 requested_by: newri0807
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/newri0807/zerobase_week4-calculator
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -24,4 +26,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/newri0807/zerobase_week4-calculator
   detection_source: Repo Metadata
